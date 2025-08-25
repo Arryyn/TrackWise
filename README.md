@@ -21,15 +21,13 @@ Get the latest APK from **Releases**:
 
 ## 📸 Screenshots
 <div><img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="1000" height="500" /></div>
-<div style="display:flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 1000">
-  <div><img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image1.jpeg" width="250" /></div>
-  <div><img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image2.jpeg" width="250" /></div>
-  <div><img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image3.jpeg" width="250" /></div>
-  <div><img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image4.jpeg" width="250" /></div>
-  <div><img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image5.jpeg" width="250" /></div>
-</div>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image1.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image2.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image3.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image4.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/Arryyn/TrackWise/main/image5.jpeg" width="250" />
+</p>
 ---
 
 ## 📌 About
