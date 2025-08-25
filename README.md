@@ -16,7 +16,7 @@ Stay in control of your finances, track where your money goes, and build better 
 
 ## 📥 Download
 Get the latest APK from **Releases**:  
-👉 [Download TrackWise](https://github.com/aryan-mobile-dev/TrackWise/releases/latest)
+👉 [Download TrackWise]((https://github.com/Arryyn/TrackWise/releases/tag/v1.0.0))
 
 ---
 
