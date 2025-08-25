@@ -20,16 +20,14 @@ Get the latest APK from **Releases**:
 ---
 
 ## 📸 Screenshots
-
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="250" height="400" />
-
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/image1.jpeg" width="250" />
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/image2.jpeg" width="250" />
-
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/image3.jpeg" width="250" />
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/image4.jpeg" width="250" />
-
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/image5.jpeg" width="250" />
+<div><img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="700" height="500" /></div>
+<div style="display:flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+    <div><img src="https://github.com/Arryyn/TrackWise/blob/main/image1.jpeg" width="250" /></div>
+    <div><img src="https://github.com/Arryyn/TrackWise/blob/main/image2.jpeg" width="250" /></div>
+    <div><img src="https://github.com/Arryyn/TrackWise/blob/main/image3.jpeg" width="250" /></div>
+    <div><img src="https://github.com/Arryyn/TrackWise/blob/main/image4.jpeg" width="250" /></div>
+    <div><img src="https://github.com/Arryyn/TrackWise/blob/main/image5.jpeg" width="250" /></div>
+  </div>
 
 ---
 
