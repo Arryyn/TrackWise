@@ -21,23 +21,15 @@ Get the latest APK from **Releases**:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/bitmap.png" width="250" alt="App Logo"/>
-</p>
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="250" />
 
-<p align="center">
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/image1.jpeg" width="250" alt="Screenshot 1"/>
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/image2.jpeg" width="250" alt="Screenshot 2"/>
-</p>
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/image1.jpeg" width="250" />
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/image2.jpeg" width="250" />
 
-<p align="center">
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/image3.jpeg" width="250" alt="Screenshot 3"/>
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/image4.jpeg" width="250" alt="Screenshot 4"/>
-</p>
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/image3.jpeg" width="250" />
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/image4.jpeg" width="250" />
 
-<p align="center">
-  <img src="https://github.com/aryan-mobile-dev/TrackWise/blob/main/image5.jpeg" width="250" alt="Screenshot 5"/>
-</p>
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/image5.jpeg" width="250" />
 
 ---
 
