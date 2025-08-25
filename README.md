@@ -21,7 +21,7 @@ Get the latest APK from **Releases**:
 
 ## 📸 Screenshots
 
-  <img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="250" />
+  <img src="https://github.com/Arryyn/TrackWise/blob/main/bitmap.png" width="250" height="400" />
 
   <img src="https://github.com/Arryyn/TrackWise/blob/main/image1.jpeg" width="250" />
   <img src="https://github.com/Arryyn/TrackWise/blob/main/image2.jpeg" width="250" />
